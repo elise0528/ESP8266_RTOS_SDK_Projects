@@ -1,0 +1,6 @@
+/*
+!/Projects
+/Projects/**/build
+
+!.gitignore
+!README.md
